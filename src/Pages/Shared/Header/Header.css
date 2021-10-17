@@ -1,0 +1,14 @@
+.signup-btn {
+    border-radius: 30px ;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.login-btn{
+    border-radius: 30px ;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-right: 10px;
+}
+i{
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.banner-section{
+    height: 90vh;
+    background: url('../../../Images/bannerbackground.png') center center no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-input{
+    border-radius: 30px;
+}
+.search-btn{
+    border-radius: 30px;
+}

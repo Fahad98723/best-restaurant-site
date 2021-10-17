@@ -1,0 +1,13 @@
+.item{
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+.item img{
+    width:300px;
+    height: 300px;
+}
+.item:hover{
+    background: white;
+    box-shadow: lightslategrey 3px 3px 20px;
+}
